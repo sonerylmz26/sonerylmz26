@@ -12,5 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to find me: 
 - ⚡  - :office: [LinkedIn](https://www.linkedin.com/in/nathancolton/)
 - 😄 Pronouns: ...
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanColton&theme=chartreuse-dark" alt="my commit status" width="49%" />
+
 
 

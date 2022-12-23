@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 👯 I am currently sharing a little bit of my knowledge to the world through my blogs
 - 🤔 I’m looking for help with ...
 - 📫 How to find me: 
-- ⚡  - :office: [LinkedIn](https://www.linkedin.com/in/nathancolton/)
+- ⚡  - :office: [LinkedIn](https:/https://www.linkedin.com/in/sonery%C4%B1lmazsy/)
 - 😄 Pronouns: ...
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanColton&theme=chartreuse-dark" alt="my commit status" width="49%" />
+
 
 
 

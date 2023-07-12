@@ -142,6 +142,8 @@
 <br>
 <div align='center'>
 
+![Project React Film-App](film-app.gif)
+
 ## <b>Credit:[ Soner YILMAZ](https://github.com/sonerylmz26)
 <h3>Last Edited on: 09/11/2022</h3>
 </b> 

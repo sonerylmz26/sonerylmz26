@@ -7,7 +7,7 @@
 <br> 
 <h3>🔭 Learning : Full-Stack Development ⚡ | Open-Source 🔥</h3>
 <h3>👯 I love math, programming, data science, and books </h3>
-<h3>🌱 Languages : HTML, CSS , JavaScript, REACT,TypeScript, NODE JS</h3>
+<h3>🌱 Languages : HTML, CSS , JavaScript, REACT, TypeScript, NODE JS</h3>
  <h3>👯 Hobbies : Basketball 🏀 & Music 🎧 </h3>
 <h3>⚡ Fact : First solve the problem, then write the code ❤️</h3>
  <h2>📫 Contact me : </h2>

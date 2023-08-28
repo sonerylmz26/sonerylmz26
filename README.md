@@ -46,6 +46,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+  <img src="./icons/Bootstrap.svg" width="48">
 <p align="center">
 
 
@@ -105,14 +106,7 @@
 
 </a>
 </div>
-<div align="center">
 
-<a href="https://github.com/sonerylmz26">
-  <img src="https://github-profile-trophy.vercel.app/?username={sonerylmz26}" width="750"/>
-  
-
-</a>
-</div>
 
 <br>
 <br>

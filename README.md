@@ -105,6 +105,14 @@
 
 </a>
 </div>
+<div align="center">
+
+<a href="https://github.com/sonerylmz26">
+  <img src="https://github-profile-trophy.vercel.app/?username={sonerylmz26}" width="750"/>
+  
+
+</a>
+</div>
 
 <br>
 <br>
@@ -134,6 +142,7 @@
 
 
 </div>
+
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

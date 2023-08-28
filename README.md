@@ -115,7 +115,7 @@
 <br>
 <br>
 
- ## <p align="center"> <b align="center"> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+ ## <p align="center"> <b align="center"> Let's Connect..!</b><img src="https://github-readme-streak-stats.herokuapp.com/?user={sonerylmz26}" width ="80">
 <br>
 </p>
 <!-- Connect with me -->
@@ -132,7 +132,7 @@
 </p>
 <div align='left'>
 
-https://github-readme-streak-stats.herokuapp.com/?user={sonerylmz26}
+
 </div>
 
 <br>

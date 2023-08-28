@@ -7,7 +7,7 @@
 <br> 
 <h3>🔭 Learning : Full-Stack Development ⚡ | Open-Source 🔥</h3>
 <h3>👯 I love math, programming, data science, and books </h3>
-<h3>🌱 Languages : HTML, CSS , JavaScript, REACT Python, NODE JS</h3>
+<h3>🌱 Languages : HTML, CSS , JavaScript, REACT,TypeScript, NODE JS</h3>
  <h3>👯 Hobbies : Basketball 🏀 & Music 🎧 </h3>
 <h3>⚡ Fact : First solve the problem, then write the code ❤️</h3>
  <h2>📫 Contact me : </h2>
@@ -36,6 +36,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Sass](https://img.shields.io/badge/Sass%40-8A2BE2)
 ![Sass](https://img.shields.io/badge/Sass%40-8A2BE2)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 <br>
@@ -145,7 +146,7 @@
 ![Project React Film-App](film-app.gif)
 
 ## <b>Credit:[ Soner YILMAZ](https://github.com/sonerylmz26)
-<h3>Last Edited on: 09/11/2022</h3>
+<h3>Last Edited on: 01/09/2023</h3>
 </b> 
 ✨
 

@@ -88,9 +88,9 @@
 
 
 <!--icons and links-->
-<p align="center">
+<p align="center" style={{padding:"10px"}}>
 <a href="https://www.linkedin.com/in/sonery%C4%B1lmazsy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="70" width="70" /></a>
-<a href="https://github.com/sonerylmz26" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://github.com/sonerylmz26" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="twitter" height="70" width="70" /></a> 
 <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="70" width="70" /></a>
 <a href="Soner Yılmaz#9212" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="70" width="70" /></a>
   

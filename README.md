@@ -29,30 +29,11 @@
 
 
 
-<h2> 🛠 &nbsp;Languages</h2>
+<h2> 🛠 &nbsp;Tech Stack</h2>
 
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Sass](https://img.shields.io/badge/Sass%40-8A2BE2)
-![Muı](https://img.shields.io/badge/Muı%40-007FFF)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-202123?style=flat&logo=git)&nbsp;
-<br>
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign) -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,sass,tailwind,styledcomponents,materialui,typescript" />
-  </a>
-</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 
 <p align="center">
